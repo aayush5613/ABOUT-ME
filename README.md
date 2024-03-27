@@ -5,7 +5,7 @@ Hello everyone I am Aayush Singh, I am pursuing B.tech (Computer Science and Eng
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aayushsingh2321@gmail.com](mailto:aayushsingh2321@gmail.com)
-* 🧠  I'm learning Flutter and DSA
+* 🧠  I'm learning and practicing full stack development and DSA
 
 ### Skills
 
