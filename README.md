@@ -1,7 +1,7 @@
 Hi 👋 My name is Aayush Singh
 =============================
 
-Hello everyone I am Aayush Singh, I am pursuing B.tech (Computer Science and Engineering) from Maharaja Agrasen Institute of Technology. I am certified in Python Data Structures(Coursera). Being a C++, Flutter enthusiast I also feel attracted towards the fields of Android and software development.
+Hello everyone I am Aayush Singh, I have completed my B.tech (Computer Science and Engineering) from Maharaja Agrasen Institute of Technology. Being a full stack development enthusiast I also feel attracted towards the fields of Android and software development.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aayushsingh2321@gmail.com](mailto:aayushsingh2321@gmail.com)
